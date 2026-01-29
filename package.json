@@ -1,11 +1,31 @@
 {
   "name": "ai-rest-to-graphql",
   "version": "1.0.0",
-  "description": "Convert REST API routes to a GraphQL schema",
+  "description": "AI-powered REST to GraphQL converter - schema and resolvers with GPT",
   "main": "dist/index.js",
-  "bin": { "ai-rest-to-graphql": "dist/cli.js" },
-  "scripts": { "build": "tsc" },
-  "keywords": ["graphql","rest","api","migration","schema","ai","cli"],
+  "bin": {
+    "ai-rest-to-graphql": "dist/cli.js"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "ai",
+    "openai",
+    "gpt",
+    "graphql",
+    "rest",
+    "api",
+    "migration",
+    "schema",
+    "developer-tools",
+    "cli",
+    "automation",
+    "typescript",
+    "nodejs",
+    "conversion",
+    "apollo"
+  ],
   "license": "MIT",
   "dependencies": {
     "commander": "^12.1.0",
