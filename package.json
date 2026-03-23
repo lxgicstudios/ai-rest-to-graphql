@@ -39,7 +39,7 @@
   "homepage": "https://github.com/LXGIC-Studios/ai-rest-to-graphql#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/LXGIC-Studios/ai-rest-to-graphql"
+    "url": "git+https://github.com/LXGIC-Studios/ai-rest-to-graphql.git"
   },
   "bugs": {
     "url": "https://github.com/LXGIC-Studios/ai-rest-to-graphql/issues"
