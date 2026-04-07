@@ -1,5 +1,5 @@
 {
-  "name": "ai-rest-to-graphql",
+  "name": "@lxgicstudios/ai-rest-to-graphql",
   "version": "1.0.0",
   "description": "AI-powered REST to GraphQL converter - schema and resolvers with GPT",
   "main": "dist/index.js",
