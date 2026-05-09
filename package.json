@@ -15,31 +15,38 @@
     "build": "tsc"
   },
   "keywords": [
+    "2025-standards",
     "ai",
+    "ai-2025",
+    "ai-powered",
     "anthropic",
-    "claude",
-    "llm",
-    "openai",
-    "gpt",
-    "graphql",
-    "rest",
     "api",
-    "migration",
-    "schema",
-    "developer-tools",
-    "cli",
+    "apollo",
     "automation",
-    "typescript",
-    "nodejs",
+    "claude",
+    "cli",
     "conversion",
-    "apollo"
+    "developer-productivity",
+    "developer-tools",
+    "discoverability",
+    "generative-ai",
+    "graphql",
+    "llm-optimized",
+    "modern-seo",
+    "optimization",
+    "performance",
+    "performance-optimization",
+    "rest",
+    "seo",
+    "seo-2026",
+    "typescript"
   ],
   "author": "LXGIC Studios",
   "license": "MIT",
   "homepage": "https://github.com/LXGIC-Studios/ai-rest-to-graphql#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/ai-rest-to-graphql.git"
+    "url": "https://github.com/LXGIC-Studios/ai-rest-to-graphql"
   },
   "bugs": {
     "url": "https://github.com/LXGIC-Studios/ai-rest-to-graphql/issues"
